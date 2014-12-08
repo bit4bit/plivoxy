@@ -1,6 +1,8 @@
 plivoxy
 =======
 
+![](http://img.shields.io/badge/stability-experimental-orange.svg?style=flat)
+
 Plivo proxy, limit plivo calls.
 
 See *config.json* for example.
